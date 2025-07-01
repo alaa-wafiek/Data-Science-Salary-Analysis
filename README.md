@@ -80,19 +80,19 @@ The dataset contains employee salary records, including:
 ## 📊 Visualizations
 
 ### Salary Distribution
-![Salary Distribution](outputs/salary_distribution.png)
+![Salary Distribution](salary_distribution.png)
 
 ### Salary by Experience
-![Salary by Experience](outputs/salary_by_experience.png)
+![Salary by Experience](salary_by_experience.png)
 
 ### Salary by Company Size
-![Salary by Company Size](outputs/salary_by_company_size.png)
+![Salary by Company Size](salary_by_company_size.png)
 
 ### Correlation Matrix
-![Correlation Matrix](outputs/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ### Simple Regression
-![Regression](outputs/simple_regression.png)
+![Regression](simple_regression.png)
 
 
 ## 💡 Key Insights
