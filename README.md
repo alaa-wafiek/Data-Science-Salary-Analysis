@@ -66,17 +66,6 @@ The dataset contains employee salary records, including:
 
 ---
 
-## Sample Visualizations
-
-<p align="center">
-  <img src="images/salary_distribution.png" alt="Salary Distribution" width="600"/>
-</p>
-
-<p align="center">
-  <img src="images/salary_by_department.png" alt="Salary by Department" width="600"/>
-</p>
-
----
 ## 📊 Visualizations
 
 ### Salary Distribution
